@@ -25,4 +25,4 @@ jobs:
               run: npm install
 
             - name: Run ESLint on pages and API routes
-              run: npx eslint pages/**/*.js pages/**/*.jsx pages/**/*.ts pages/**/*.tsx api/**/*.js api/**/*.ts src/**/*.js src/**/*.ts src/**/*.jsx src/**/*.tsx
+              run: npx eslint app/**/*.js app/**/*.jsx app/**/*.ts app/**/*.tsx api/**/*.js api/**/*.ts src/**/*.js src/**/*.ts src/**/*.jsx src/**/*.tsx
