@@ -1,0 +1,8 @@
+{
+	"formatter": {
+		"indentStyle": "tab",
+		"lineWidth": 150,
+		"indentWidth": 4,
+		"enabled": true
+	}
+}
